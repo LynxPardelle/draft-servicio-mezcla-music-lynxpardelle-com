@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "servicio-mezcla.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Mezcla musical | Lynx Pardelle",
+    "description": "Dale un lugar a cada elemento de tu canción. La mezcla trabaja con las pistas de voz e instrumentos para que el balance, la profundidad y la dinámica respondan a la intención de la producción.",
+    "canonical": "https://servicio-mezcla.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-servicio-mezcla.webp"
+    }
+  }
+}
