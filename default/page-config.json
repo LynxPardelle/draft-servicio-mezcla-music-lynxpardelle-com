@@ -7,12 +7,56 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Mezcla musical | Lynx Pardelle",
-    "description": "Dale un lugar a cada elemento de tu canción. La mezcla trabaja con las pistas de voz e instrumentos para que el balance, la profundidad y la dinámica respondan a la intención de la producción.",
+    "title": "Servicio de mezcla musical para canciones | Lynx Pardelle",
+    "description": "Trabaja el balance, la profundidad y la dinámica de las pistas de tu canción. Prepara referencias y consulta el alcance de la mezcla con Lynx Pardelle.",
     "canonical": "https://servicio-mezcla.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-mezcla-r2-cca8b1930f2b617c.webp",
+      "title": "Servicio de mezcla musical para canciones | Lynx Pardelle",
+      "description": "Trabaja el balance, la profundidad y la dinámica de las pistas de tu canción. Prepara referencias y consulta el alcance de la mezcla con Lynx Pardelle.",
+      "url": "https://servicio-mezcla.music.lynxpardelle.com/",
+      "imageAlt": "Ingeniero de mezcla ajustando una consola de estudio."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Servicio de mezcla musical para canciones | Lynx Pardelle",
+      "description": "Trabaja el balance, la profundidad y la dinámica de las pistas de tu canción. Prepara referencias y consulta el alcance de la mezcla con Lynx Pardelle.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-mezcla-r2-cca8b1930f2b617c.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://servicio-mezcla.music.lynxpardelle.com/#webpage",
+        "name": "Mezcla musical",
+        "description": "Trabaja el balance, la profundidad y la dinámica de las pistas de tu canción. Prepara referencias y consulta el alcance de la mezcla con Lynx Pardelle.",
+        "url": "https://servicio-mezcla.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Servicios",
+          "url": "https://music.lynxpardelle.com/servicios"
+        },
+        "mainEntity": {
+          "@id": "https://servicio-mezcla.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "@id": "https://servicio-mezcla.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Mezcla musical",
+        "description": "Trabaja el balance, la profundidad y la dinámica de las pistas de tu canción. Prepara referencias y consulta el alcance de la mezcla con Lynx Pardelle.",
+        "url": "https://servicio-mezcla.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-mezcla-r2-cca8b1930f2b617c.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "serviceType": "Mezcla musical"
+      }
+    ]
   }
 }
